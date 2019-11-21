@@ -1,5 +1,5 @@
 # niranjangavade98.github.io
 
-This repo contains code for my potfolio website, hosted by GitHub Pages
+This repo contains code for my potfolio website.
 
-visit- https://hrishikeshmane.github.io/
+visit- https://niranjangavade98.github.io/
