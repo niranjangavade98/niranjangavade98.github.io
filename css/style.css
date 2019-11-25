@@ -170,9 +170,8 @@ a {
     color: #00fdff; }    //////colour for main heading
   .site-hero .lead {
     line-height: 2; }
-  .site-hero .site-subheading p {
-    font-size: 70 px;
-    max-width: 940px;
+  .site-hero .site-subheading {
+    max-width: 640px;
     margin: 0 auto;
     color: #00fdff; }    //////colour for sub heading
 
