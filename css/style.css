@@ -167,13 +167,13 @@ a {
         font-size: 70px; } }
   .site-hero h1, .site-hero .lead {
     font-weight: 200;
-    color: #00fdff; }    //////colour for main heading
+    color: #f8e8ff; }    //////colour for main heading
   .site-hero .lead {
     line-height: 2; }
   .site-hero .site-subheading {
     max-width: 640px;
     margin: 0 auto;
-    color: #00fdff; }    //////colour for sub heading
+    color: #f8e8ff; }    //////colour for sub heading
 
 .site-section {
   padding: 5em 0; }
@@ -260,7 +260,7 @@ a {
     .site-list li.site-check {
       padding-left: 30px; }
       .site-list li.site-check:before {
-        color: #57d131;
+        color: #363636;
         font-size: 16px;
         content: "\ebd3"; }
 
@@ -273,11 +273,11 @@ a {
     -webkit-box-shadow: none !important;
     box-shadow: none !important; }
   .btn.btn-primary {
-    color: #fff;
-    background: #6600ff; }
+    color: #363636;
+    background: #969696; }
     .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
-      color: #6600ff;
-      background: #00fdff; }
+      color: #969696;
+      background: #363636; }
 
 .progress {
   overflow: visible;
